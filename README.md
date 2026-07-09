@@ -10,7 +10,7 @@ This repo documents everything I've built and learned — real deployments, work
 
 | Certification | Status |
 |---|---|
-| AZ-104 Azure Administrator | ✅ Course Complete |
+| AZ-104 Azure Administrator | ✅ Certified  |
 | AZ-204 Azure Developer | ✅ Course Complete |
 | AI-102 Azure AI Engineer | 📅 Next |
 
@@ -55,7 +55,7 @@ Covers building and deploying applications on Azure. These labs go deeper into t
 
 ## Tech I Work With
 
-Azure CLI · PowerShell · C# / .NET 8 · Python · SQL · Docker · Git
+Azure CLI · PowerShell · Python · SQL · Git
 
 ---
 
